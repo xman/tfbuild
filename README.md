@@ -1,5 +1,9 @@
-# Latest Tensorflow Build
+## Tensorflow Builds
+* [Tensorflow 2.1.0](#TF2.1.0)
+* [Tensorflow 1.5.2](#TF1.5.2)
 
+<a name="TF2.1.0"></a>
+## Tensorflow 2.1.0
 **[tensorflow_cpu-2.1.0-cp38-cp38-linux_x86_64.whl](https://github.com/xman/tfbuild/releases/download/v2.1.0/tensorflow_cpu-2.1.0-cp38-cp38-linux_x86_64.whl)**:
 * Tensorflow 2.1.0 CPU
 * Python 3.8.2
@@ -15,6 +19,8 @@
 * Intel Haswell CPU
 * Fedora 28
 
+<a name="TF1.5.2"></a>
+## Tensorflow 1.5.2
 **[tensorflow_cpu-1.15.2-cp38-cp38-linux_x86_64.whl](https://github.com/xman/tfbuild/releases/download/v1.15.2/tensorflow_cpu-1.15.2-cp38-cp38-linux_x86_64.whl)**:
 * Tensorflow 1.15.2 CPU
 * Python 3.8.2
