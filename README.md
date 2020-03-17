@@ -14,3 +14,18 @@
 * NCCL 2.6.5
 * Intel Haswell CPU
 * Fedora 28
+
+**[tensorflow_cpu-1.15.2-cp38-cp38-linux_x86_64.whl](https://github.com/xman/tfbuild/releases/download/v1.15.2/tensorflow_cpu-1.15.2-cp38-cp38-linux_x86_64.whl)**:
+* Tensorflow 1.15.2 CPU
+* Python 3.8.2
+* Intel Haswell CPU
+* Fedora 28
+
+**[tensorflow_gpu-1.15.2-cp38-cp38-linux_x86_64.whl](https://github.com/xman/tfbuild/releases/download/v1.15.2/tensorflow_gpu-1.15.2-cp38-cp38-linux_x86_64.whl)**:
+* Tensorflow 1.15.2 CUDA GPU
+* Python 3.8.2
+* CUDA 10.2
+* CUDNN 7.6.5
+* NCCL 2.6.5
+* Intel Haswell CPU
+* Fedora 28
