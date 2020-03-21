@@ -1,6 +1,7 @@
 ## Tensorflow Builds
 * [Tensorflow 2.1.0](#TF2.1.0)
 * [Tensorflow 1.5.2](#TF1.5.2)
+* [Singularity containers](https://cloud.sylabs.io/library/_container/5d616592934856cce349d676)
 
 <a name="TF2.1.0"></a>
 ## Tensorflow 2.1.0
