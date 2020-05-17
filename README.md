@@ -6,7 +6,7 @@
 
 <a name="TF2.2.0"></a>
 ## Tensorflow 2.2.0
-**[tensorflow-2.2.0-cp38-cp38-linux_x86_64.whl]()**:
+**[tensorflow-2.2.0-cp38-cp38-linux_x86_64.whl](https://github.com/xman/tfbuild/releases/download/v2.2.0/tensorflow-2.2.0-cp38-cp38-linux_x86_64.whl)**:
 * Tensorflow 2.2.0 CPU
 * Python 3.8.2
 * Intel Haswell CPU (AVX2)
